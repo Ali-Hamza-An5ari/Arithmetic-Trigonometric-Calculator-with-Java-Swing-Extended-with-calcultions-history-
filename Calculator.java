@@ -321,8 +321,6 @@ class GUI implements ActionListener
 			
 			
 	}
-	
-	
 }
 
 
